@@ -1,2 +1,2 @@
 # Datasets_repo
-importing multiple datasets and displaying in grphically 
+importing multiple datasets and displaying in graphically 
